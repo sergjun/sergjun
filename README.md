@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@serjun-6633cc?style=flat-square&labelColor=000000cc&logo=twitter&logoColor=white&link=https://twitter.com/sergjun)](https://twitter.com/sergjun) 
-[![Linkedin Badge](https://img.shields.io/badge/-Sergio%20Junior-000000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sergio-junior-8518a6208/)](https://www.linkedin.com/in/sergio-junior-8518a6208/) 
-[![Gmail Badge](https://img.shields.io/badge/-serrgio.madureira@gmail.com-000000cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:serrgio.madureira@gmail.com)](mailto:serrgio.madureira@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@serjun-1da1f2?style=flat-square&labelColor=000000cc&logo=twitter&logoColor=white&link=https://twitter.com/sergjun)](https://twitter.com/sergjun) 
+[![Linkedin Badge](https://img.shields.io/badge/-Sergio%20Junior-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sergio-junior-8518a6208/)](https://www.linkedin.com/in/sergio-junior-8518a6208/) 
+[![Gmail Badge](https://img.shields.io/badge/-serrgio.madureira@gmail.com-FF1B1C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:serrgio.madureira@gmail.com)](mailto:serrgio.madureira@gmail.com)
 
 
 <!--
