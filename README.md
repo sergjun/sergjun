@@ -1,17 +1,9 @@
-### Hi there 👋
+I write a lot of stuff, not only code.
 
 
-<center>
-    <table align="center">
-      <tr>
-          <td>
-              <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=sergjun&count_private=true&hide_border=true" />
-          </td>
-          <td>
-              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergjun&layout=compact&hide_border=true" alt="sergjun" />                   </td>
-      </tr>  
-    </table>
-</center>
+[![](https://github-readme-stats.vercel.app/api?username=sergjun&count_private=true&show_icons=true&contribs,prs&cache_seconds=86400&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![daniloab](https://github-readme-stats.vercel.app/api/top-langs/?username=sergjun&layout=compact&theme=midnight-purple) ](https://github.com/anuraghazra/github-readme-stats) 
+
 
 [![Twitter Badge](https://img.shields.io/badge/-@serjun-1da1f2?style=flat-square&labelColor=000000cc&logo=twitter&logoColor=white&link=https://twitter.com/sergjun)](https://twitter.com/sergjun) 
 [![Linkedin Badge](https://img.shields.io/badge/-Sergio%20Junior-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sergio-junior-8518a6208/)](https://www.linkedin.com/in/sergio-junior-8518a6208/) 
